@@ -1,0 +1,22 @@
+.navbar{
+    padding: 3px;
+}
+.jumbotron{
+    padding: 20px;
+}
+img{
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+.bg{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: 0;
+    margin-left: auto;
+  }
